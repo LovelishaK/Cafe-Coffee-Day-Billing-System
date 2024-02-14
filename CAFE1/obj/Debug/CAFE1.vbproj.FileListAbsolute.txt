@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.frm_login.resources
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.Resources.resources
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CAFE1\bin\Debug\CAFE1.exe.config
+C:\Users\HP\source\repos\CAFE1\bin\Debug\CAFE1.exe
+C:\Users\HP\source\repos\CAFE1\bin\Debug\CAFE1.pdb
+C:\Users\HP\source\repos\CAFE1\bin\Debug\CAFE1.xml
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.Items.resources
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.Orders.resources
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.ViewOrders.resources
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.exe
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.xml
+C:\Users\HP\source\repos\CAFE1\obj\Debug\CAFE1.pdb
